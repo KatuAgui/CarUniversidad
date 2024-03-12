@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1392587807",
+    "firebase_url": "https://appprueba-81405-default-rtdb.firebaseio.com",
+    "project_id": "appprueba-81405",
+    "storage_bucket": "appprueba-81405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1392587807:android:4d17096d7cf96778e8112a",
+        "android_client_info": {
+          "package_name": "com.codingka.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rMxvR9ROSl-3XYNXs0S9v7qd2Huy9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1392587807:android:b13562dbc08229dae8112a",
+        "android_client_info": {
+          "package_name": "com.codingka.caruniversidad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rMxvR9ROSl-3XYNXs0S9v7qd2Huy9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1392587807:android:e66af481c6934444e8112a",
+        "android_client_info": {
+          "package_name": "com.example.pruebamensajes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rMxvR9ROSl-3XYNXs0S9v7qd2Huy9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

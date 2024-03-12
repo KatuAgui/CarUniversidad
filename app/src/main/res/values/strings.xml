@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CarUniversidad</string>
+    <string name="principal">Viajes seguros: ¡Descubre Valencia con tu app universitaria!</string>
+    <string name="verificar">Verifica Cuenta</string>
+    <string name="recupera">Enviar Correo</string>
+</resources>
